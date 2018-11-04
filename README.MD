@@ -15,7 +15,8 @@ react-native link
 react-native run-ios
 ```
 
-That is all.
+
+![Preview](https://github.com/mirchenko/rnui/blob/master/screenshots/preview.png)
 
 
 
